@@ -1,3 +1,6 @@
+## 2.0.0 - 10 March 2021
+  * Upgrade to null safety.
+
 ## 1.3.2 - 11 August 2020
   * Fix notification stop/restart issue on Android.
 
